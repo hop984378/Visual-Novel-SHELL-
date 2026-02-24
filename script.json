@@ -1,0 +1,24 @@
+{
+  "text": [
+    {
+      "name": "Izuku",
+      "dialogue": "Hey there!",
+      "spk": "images/izukuspeaker.png",
+      "bg": "images/fieldbg.png",
+      "p1": "images/izukusprite.png",
+      "type": "normal"
+    },
+    {
+      "type": "choice",
+      "question": "What do you want to do?",
+      "choices": [
+        { "text": "Go left", "nextScreen": 3 },
+        { "text": "Go right", "nextScreen": 4 }
+      ]
+    },
+    {
+      "dialogue": "This is the end.",
+      "end": "yes"
+    }
+  ]
+}
