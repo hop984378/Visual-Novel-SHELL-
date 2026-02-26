@@ -7,3 +7,5 @@ This program uses a JSON file to store the script, and due to web browsers same-
 
 HOW TO INSTALL AND USE LIVE SERVER ON VSCODE:
 https://www.youtube.com/watch?v=ZfCi0Is9gLU 
+
+script.json is the actual story script. change it to example_script.json for the example script.
