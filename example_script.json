@@ -4,7 +4,7 @@
       "name": "Izuku",
       "dialogue": "Hey there!",
       "spk": "images/izukuspeaker.png",
-      "bg": "images/fieldbg.png",
+      "bg": "images/carriage.png",
       "p1": "images/izukusprite.png",
       "type": "normal"
     },
@@ -15,6 +15,34 @@
         { "text": "Go left", "nextScreen": 3 },
         { "text": "Go right", "nextScreen": 4 }
       ]
+    },
+    {
+      "name": "Izuku",
+      "dialogue": "Hey, this is screen 2",
+      "spk": "images/izukuspeaker.png",
+      "bg": "images/carriage.png",
+      "p1": "images/izukusprite.png",
+      "type": "normal"
+    },
+    {
+      "name": "Izuku",
+      "dialogue": "Hey, this is screen 3",
+      "spk": "images/izukuspeaker.png",
+      "bg": "images/carriage.png",
+      "p1": "images/izukusprite.png",
+      "type": "normal"
+    },
+    {
+      "dialogue": "This is the end.",
+      "end": "yes"
+    },
+    {
+      "name": "Izuku",
+      "dialogue": "Hey, this is screen 4",
+      "spk": "images/izukuspeaker.png",
+      "bg": "images/carriage.png",
+      "p1": "images/izukusprite.png",
+      "type": "normal"
     },
     {
       "dialogue": "This is the end.",
